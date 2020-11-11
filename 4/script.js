@@ -7,3 +7,6 @@
 // 4. Logga ut arrayen igen.
 
 // 5. Logga ut det sista elementet i arrayen.
+
+let arrraaayyy = ["Jonathan", "Einar", "Hampus", "Liam"]
+console.log(arrraaayyy)

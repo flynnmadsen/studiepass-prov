@@ -14,6 +14,6 @@ hello()
 // Gör så att den hälsar med namn, t.ex. "Hello Fredrik, how are you today?"
 function hello() {
     let name = "Dracula"
-    console.log("Hello", (name), "how are you today?")
+    console.log("Hello " + name + " how are you today?")
 }
 hello()
